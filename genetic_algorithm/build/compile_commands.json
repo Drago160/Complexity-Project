@@ -1,0 +1,74 @@
+[
+{
+  "directory": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/build",
+  "command": "/usr/bin/g++  -I/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/include -g -std=gnu++20 -o CMakeFiles/run.dir/src/graph_info.cpp.o -c /home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/graph_info.cpp",
+  "file": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/graph_info.cpp",
+  "output": "CMakeFiles/run.dir/src/graph_info.cpp.o"
+},
+{
+  "directory": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/build",
+  "command": "/usr/bin/g++  -I/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/include -g -std=gnu++20 -o CMakeFiles/run.dir/src/utils_impl.cpp.o -c /home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/utils_impl.cpp",
+  "file": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/utils_impl.cpp",
+  "output": "CMakeFiles/run.dir/src/utils_impl.cpp.o"
+},
+{
+  "directory": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/build",
+  "command": "/usr/bin/g++  -I/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/include -g -std=gnu++20 -o CMakeFiles/run.dir/src/genetic_algo.cpp.o -c /home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/genetic_algo.cpp",
+  "file": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/genetic_algo.cpp",
+  "output": "CMakeFiles/run.dir/src/genetic_algo.cpp.o"
+},
+{
+  "directory": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/build",
+  "command": "/usr/bin/g++  -I/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/include -g -std=gnu++20 -o CMakeFiles/run.dir/src/random.cpp.o -c /home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/random.cpp",
+  "file": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/random.cpp",
+  "output": "CMakeFiles/run.dir/src/random.cpp.o"
+},
+{
+  "directory": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/build",
+  "command": "/usr/bin/g++  -I/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/include -g -std=gnu++20 -o CMakeFiles/run.dir/src/graph_generator.cpp.o -c /home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/graph_generator.cpp",
+  "file": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/graph_generator.cpp",
+  "output": "CMakeFiles/run.dir/src/graph_generator.cpp.o"
+},
+{
+  "directory": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/build",
+  "command": "/usr/bin/g++  -I/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/include -g -std=gnu++20 -o CMakeFiles/run.dir/src/solver.cpp.o -c /home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/solver.cpp",
+  "file": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/solver.cpp",
+  "output": "CMakeFiles/run.dir/src/solver.cpp.o"
+},
+{
+  "directory": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/build",
+  "command": "/usr/bin/g++  -I/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/include -g -std=gnu++20 -o CMakeFiles/run.dir/main.cpp.o -c /home/machenike/complexity_project/Complexity-Project/genetic_algorithm/main.cpp",
+  "file": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/main.cpp",
+  "output": "CMakeFiles/run.dir/main.cpp.o"
+},
+{
+  "directory": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/build/tests",
+  "command": "/usr/bin/g++  -I/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/include  -fsanitize=address,undefined -fno-sanitize-recover=all -Wall -Werror -g -std=gnu++20 -o CMakeFiles/testing.dir/basic_tests.cpp.o -c /home/machenike/complexity_project/Complexity-Project/genetic_algorithm/tests/basic_tests.cpp",
+  "file": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/tests/basic_tests.cpp",
+  "output": "tests/CMakeFiles/testing.dir/basic_tests.cpp.o"
+},
+{
+  "directory": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/build/tests",
+  "command": "/usr/bin/g++  -I/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/include  -fsanitize=address,undefined -fno-sanitize-recover=all -Wall -Werror -g -std=gnu++20 -o CMakeFiles/testing.dir/__/src/graph_info.cpp.o -c /home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/graph_info.cpp",
+  "file": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/graph_info.cpp",
+  "output": "tests/CMakeFiles/testing.dir/__/src/graph_info.cpp.o"
+},
+{
+  "directory": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/build/tests",
+  "command": "/usr/bin/g++  -I/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/include  -fsanitize=address,undefined -fno-sanitize-recover=all -Wall -Werror -g -std=gnu++20 -o CMakeFiles/testing.dir/__/src/utils_impl.cpp.o -c /home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/utils_impl.cpp",
+  "file": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/utils_impl.cpp",
+  "output": "tests/CMakeFiles/testing.dir/__/src/utils_impl.cpp.o"
+},
+{
+  "directory": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/build/tests",
+  "command": "/usr/bin/g++  -I/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/include  -fsanitize=address,undefined -fno-sanitize-recover=all -Wall -Werror -g -std=gnu++20 -o CMakeFiles/testing.dir/__/src/genetic_algo.cpp.o -c /home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/genetic_algo.cpp",
+  "file": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/genetic_algo.cpp",
+  "output": "tests/CMakeFiles/testing.dir/__/src/genetic_algo.cpp.o"
+},
+{
+  "directory": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/build/tests",
+  "command": "/usr/bin/g++  -I/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/include  -fsanitize=address,undefined -fno-sanitize-recover=all -Wall -Werror -g -std=gnu++20 -o CMakeFiles/testing.dir/__/src/random.cpp.o -c /home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/random.cpp",
+  "file": "/home/machenike/complexity_project/Complexity-Project/genetic_algorithm/src/random.cpp",
+  "output": "tests/CMakeFiles/testing.dir/__/src/random.cpp.o"
+}
+]
