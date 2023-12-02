@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/tests.dir/__/src/genetic_algo.cpp.o CMakeFiles/tests.dir/__/src/graph_info.cpp.o CMakeFiles/tests.dir/__/src/random.cpp.o CMakeFiles/tests.dir/__/src/utils_impl.cpp.o -o /home/machenike/complexity_project/Complexity-Project/genetic_algorithm/tests/bin/tests  -lgtest -lgtest_main 
